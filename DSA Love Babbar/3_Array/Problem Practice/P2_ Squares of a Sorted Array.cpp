@@ -17,6 +17,7 @@ int main(){
     }
 
     // sort the vector
+    sort(arr.begin(),arr.end());
     
 
     for (int i=0;i<n;i++){
