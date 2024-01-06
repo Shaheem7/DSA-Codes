@@ -8,7 +8,7 @@ This repository contains implementations of various Data Structures and Algorith
 - [Languages](#languages)
 - [Structure](#structure)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -18,7 +18,6 @@ Data Structures and Algorithms (DSA) are fundamental concepts in computer scienc
 
 The implementations are available in multiple programming languages, including but not limited to:
 - C++
-- Java
 - Python
 - JavaScript
 
@@ -30,6 +29,7 @@ The repository is structured into folders, each representing a different data st
 - `LinkedLists/`: Implementations related to linked lists.
 - `SortingAlgorithms/`: Different sorting algorithms.
 - `Trees/`: Code related to tree structures.
+- `1_Array/` : Complete Array
 - ...
 
 Each folder contains code files and maybe additional resources such as explanations or sample inputs/outputs where applicable.
